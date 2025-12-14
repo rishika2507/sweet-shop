@@ -41,5 +41,6 @@ Full‑stack sweets shop application with Django REST API backend and React fron
 - Log in as admin to:
   - Create new sweets.
   - Restock or delete sweets.
-  <img width="1283" height="598" alt="website_UI" src="https://github.com/user-attachments/assets/1e7db5ad-f10c-4c1e-9e33-df8a593189cc" />
-- View total stock value and total items.
+  - View total stock value and total items.
+
+  
