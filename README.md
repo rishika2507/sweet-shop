@@ -44,6 +44,7 @@ Full‑stack sweets shop application with Django REST API backend and React fron
   - View total stock value and total items.
 
 ## Website Interface
-![Website](website_ui)
+![Website](screenshots/website_UI.png)
+
 
   
