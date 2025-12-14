@@ -43,4 +43,7 @@ Full‑stack sweets shop application with Django REST API backend and React fron
   - Restock or delete sweets.
   - View total stock value and total items.
 
+## Website Interface
+![Website](website_ui)
+
   
