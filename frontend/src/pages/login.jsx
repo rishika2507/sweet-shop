@@ -36,7 +36,7 @@ function Login() {
       {error && <p style={{ color: "red" }}>{error}</p>}
       <form onSubmit={handleSubmit}>
         <div>
-          <label>Username</label><br />
+          <label>UserName</label><br />
           <input
             type="text"
             value={username}
@@ -55,6 +55,7 @@ function Login() {
           Login
         </button>
       </form>
+
     </div>
   );
 }

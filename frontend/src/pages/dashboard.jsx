@@ -189,7 +189,7 @@ function Dashboard() {
         {/* Search bar */}
         <div
           style={{
-            marginBottom: 12,
+            marginBottom: 11,
             display: "flex",
             gap: 8,
             alignItems: "center",
@@ -252,6 +252,7 @@ function Dashboard() {
             </div>
           ))}
         </div>
+
       </main>
     </>
   );
